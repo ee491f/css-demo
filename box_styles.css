@@ -1,7 +1,8 @@
 div {
-  border: solid 1px black;
-  margin: 3px;
-  padding: 5px;
+  border: solid .1em black;
+  margin: .1em;
+  padding: .1em;
+  font-size: 40px;
 }
 div div {
   background-color: aqua;
