@@ -1,6 +1,7 @@
 # Cascading Style Sheets (CSS) Demo
 A demonstration of the CSS material for [EE491F](https://ee491f.github.io/course-material/#css "EE491F Course Webpage").  
 Accompanying Video: [https://youtu.be/KQ8hMpjF6qc](https://youtu.be/KQ8hMpjF6qc "Getting Started with HTML Video")
+
 Outline
 -------
 1. Adding CSS to a Page
